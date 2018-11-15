@@ -1,2 +1,2 @@
 # Calculator
-Basic windows calculator 
+Basic windows calculator made using c#
