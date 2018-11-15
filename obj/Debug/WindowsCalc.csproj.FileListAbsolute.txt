@@ -1,0 +1,10 @@
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csprojAssemblyReference.cache
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Calculator.resources
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.cache
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.CoreCompileInputs.cache
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+c:\users\home pc\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb
